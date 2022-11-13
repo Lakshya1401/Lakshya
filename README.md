@@ -1,6 +1,6 @@
-### Hi there 👋
-***Lakshya katara here.***
-#### A CS student who is trying to be a smart Developer.
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">Lakshya katara here.</h3>
+<h3 align="center"> A CSE student in a journey to be a smart Developer.</h3>
 I am a self-starter with strong interpersonal skills. Currently Pursuing B.Tech. I work efficiently both as an individual contributor as well as along with a team. I seek new challenges and try to think out of the box while looking for creative solutions to a given problem.
 
 Skills: C/C++/PYTHON/HTML/CSS/WordPress
